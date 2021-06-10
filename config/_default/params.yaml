@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
-day_night: true
-font: ''
+theme: fliptheme
+day_night: false
+font: 'flipfont'
 font_size: L
 
 # SEO
@@ -21,49 +21,51 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: test@example.org
-phone: 888 888 88 88
+email1: flip.tanedo # using cryptedmail
+email2: ucr # using cryptedmail
+email3: edu # using cryptedmail
+phone: x26168
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: 900 Universty Ave.
+  city: Riverside
   region: CA
   postcode: '94305'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '33.974480'
+  longitude: '-117.325415'
+directions: Physics Building, Office 3054 on the third floor
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  - 'Office hours by appointment'
+appointment_url: 
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   name: DM Me
+  #   link: 'https://twitter.com/Twitter'
+  # - icon: skype
+  #   icon_pack: fab
+  #   name: Skype Me
+  #   link: 'skype:echo123?call'
+  # - icon: keybase
+  #   icon_pack: fab
+  #   name: Chat on Keybase
+  #   link: 'https://keybase.io/'
+  # - icon: comments
+  #   icon_pack: fas
+  #   name: Discuss on Forum
+  #   link: 'https://discourse.gohugo.io'
 
 # Site header
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: true
+  show_search: false
   highlight_active_link: true
 
 # Localization
@@ -77,7 +79,7 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
@@ -98,7 +100,7 @@ show_related:
 reading_time: true
 section_pager: false
 docs_section_pager: true
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false
@@ -140,8 +142,8 @@ search:
     api_key: ''
     index_name: ''
     show_logo: false
-map:
-  provider: ''
+map: 
+  provider: mapnik
   api_key: ''
   zoom: 15
 marketing:
@@ -156,3 +158,15 @@ cms:
 icon:
   pack:
     ai: true
+
+## ADDED BY FLIP
+# Feynman Diagram Footer
+footmark: 'layout/feynmanfooter.png'
+
+# Footer logos
+midlogo: 'logo/UCRPAlogo2.png'
+mylogo: 'logo/FlipAmbigram.png'
+
+# watermark on the about widget
+watermark: 'background/Bundle3.jpg'
+## /FLIP

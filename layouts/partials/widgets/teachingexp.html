@@ -1,0 +1,14 @@
+{{ $st := .page }}
+{{ $columns := $st.Params.design.columns | default "2" }}
+
+
+{{ if ne $columns "1" }}
+  <div class="col-12 col-lg-8">
+    {{ $st.Content }}
+  </div>
+{{ else }}
+<!-- I should never access this -->
+  <div class="col-12">
+    {{ $st.Content }}
+  </div>
+{{ end }}

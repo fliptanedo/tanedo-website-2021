@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: Flip Tanedo # Website name
+baseurl: 'https://theory.ucr.edu/flip/' # Website URL
+copyright: 'All opinions expressed here are my own and do not necessarily represent those of any other agencies or groups. &copy; {year} Philip Tanedo &middot; [Source on GitHub](https://github.com/fliptanedo/tanedo-website-2021).' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

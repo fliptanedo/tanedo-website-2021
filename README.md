@@ -1,7 +1,7 @@
 # Flip's Personal Website '21
 
 Flip Tanedo
-June 2021
+June 2021 (Update 10 September)
 
 See `Academic_README.md` for the README file for the Hugo Academic Resumé template. I periodically re-do my personal website from scratch using the latest Academic template.
 
@@ -730,11 +730,54 @@ Corresponding change to `teaching.html`:
 
 Have to do this for each custom 2-column widget.
 
+## Adding a separate page
+
+I like to have some one-off pages that are not directly linked in the menu bar. For example, a page for letter of recommendation instructions for undergraduates. 
+
+### New Method: set these up as "blog" posts
+
+Rather than having one-off pages "on an island," I might as well use the `./content/post` folder for these. Each post has a subfolder.
+
+Problem: for some screen sizes, the menu bar overlaps the page title.![Screen Shot 2021-09-10 at 4.02.16 PM](/Users/flip/Documents/Website/tanedo-website-2021/README.assets/Screen Shot 2021-09-10 at 4.02.16 PM.png)
+
+### Old Method: doesn't work anymore
+
+To do this, add a new folder `./content/recs/` with a markdown file `./content/recs/_index.md`
+
+I used the sample site's `.content/post/_inxed.md` as a template. 
+
+```
+---
+title: Letters of Rec
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
+---
+Here are some instructions if you would like to ask me for a **letter of recommendation**. Key guidelines:
+```
+
+*Hmm! This doesn't seem to work!*
+
 ## Deploying
 
-Note: UCR now uses 2-factor authentication. In order to ssh/sftp into the server, one needs to connect with a VPN in order to open up the porn.
+Note: UCR now uses 2-factor authentication. In order to ssh/sftp into the server, one needs to connect with a VPN in order to open up the port.
 
 ## Cheat Sheets
 
 * [Emoji in Hugo](https://www.webfx.com/tools/emoji-cheat-sheet/)
 * See 2020 Readme for some previous design notes.
+* https://isabella-b.com/blog/hugo-academic-customization/
+
+
+
+## Work in progress for next time
+
+![Screen Shot 2021-09-10 at 4.08.30 PM](/Users/flip/Documents/Website/tanedo-website-2021/README.assets/Screen Shot 2021-09-10 at 4.08.30 PM.png)

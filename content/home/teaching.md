@@ -182,5 +182,5 @@ subtitle = ""
 
 +++
 
-* How to [request a letter of recommendation](./recs/).
+* How to [request a letter of recommendation](./post/recs/).
 

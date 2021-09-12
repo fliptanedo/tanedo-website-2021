@@ -81,6 +81,7 @@ group_logo = "./img/logo/UCRHEP_03.png"
 +++
 **Flip Tanedo** is an assistant professor of theoretical physics at the University of California, Riverside. His research seeks to discover how dark matter fits into our fundamental understanding of nature.
 
+- [NSF CAREER Award](https://beta.nsf.gov/funding/opportunities/faculty-early-career-development-program-career), 2021 - 2026
 - UCR [Junior Excellence in Teaching Award](https://academyteachers.ucr.edu/awards/jet), 2021
 - [Hellman Fellow](http://www.hellmanfellows.org), 2020 - 2021
 - UCR [Commitment to Graduate Diversity Award](https://insideucr.ucr.edu/awards/2020/06/24/four-professors-honored-senate-faculty-awards), 2000

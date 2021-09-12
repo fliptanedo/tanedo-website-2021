@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Sub-Pages
 cms_exclude: true
 
 # View.

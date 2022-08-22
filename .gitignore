@@ -10,6 +10,3 @@ node_modules/
 # 
 static/archived/
 *.DS_Store
-static/.DS_Store
-static/img/.DS_Store
-

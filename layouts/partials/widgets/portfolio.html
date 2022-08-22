@@ -1,0 +1,22 @@
+{{ $st := .page }}
+{{ $columns := $st.Params.design.columns | default "2" }}
+
+{{ if ne $columns "1" }}
+  <div class="col-12 col-lg-8">
+    {{ $st.Content }}
+    <div class="row">
+    {{ with $st.Params.portfolio }}
+          {{ range .item }}
+            <div class="col-3 teaching">
+             <a href="{{ $.Site.BaseURL }}/post/{{ .website }}"><img class="teachingpic" src="{{ $.Site.BaseURL }}img/portfolio/{{ .photo }}"></a>
+             <a href="{{ $.Site.BaseURL }}/post/{{ .website }}">{{ .title }}</a> <br />
+             <span class="smaller">{{ .description }}</span>
+            </div>
+          {{ end }}
+        {{ end }}
+    </div>
+  </div>
+{{ else }}
+<!-- Should not happen -->
+{{ end }}
+

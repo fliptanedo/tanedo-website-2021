@@ -4,8 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Flip Tanedo # Website name
-baseurl: 'https://theory.ucr.edu/flip/' # Website URL
-copyright: 'All opinions expressed here are my own and do not necessarily represent those of any other agencies or groups. &copy; {year} Philip Tanedo &middot; [Source on GitHub](https://github.com/fliptanedo/tanedo-website-2021).' # Footer text, e.g. '© {year} Me'
+# baseurl: 'https://theory.ucr.edu/flip/' # Website URL
+baseurl: 'https://particle.ucr.edu/' # Website URL
+copyright: 'My opinions expressed here do not necessarily represent those of any other groups. The policies and opinions of my university and funding agencies also do not necessarily represent my own. &copy; {year} Philip Tanedo &middot; [Source on GitHub](https://github.com/fliptanedo/tanedo-website-2021).' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

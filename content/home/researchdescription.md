@@ -24,12 +24,6 @@ subtitle = ""
 +++
 
 
-I am a theoretical physicist specializing in particle physics. My main focus has been the search for an fundamental theory of **dark matter**: what is it, how did it get here, and how can experiments tell us about its dynamics?
-
-Two aspects of this program are
-1. *Model building*: creating quantum field theories that can predict the properties of dark matter. I am especially interested in *weakly-coupled descriptions of strong dynamics* such as holographic (AdS/CFT-inspired) or composite models.
-2. *Phenomenology*: showing how the properties of dark matter can be discovered, excluded, or deduced experimentally. I have been most curious about the ways in which hypothetical dark force particles (dark sectors) inform our exploration of the invisible universe.
-
-The puzzles and tools in particle physics spill beyond historical disciplines. These include exciting overlaps with rapidly growing fields like multimessenger astronomy, particle-cosmology, machine learning, and information.
+I am a theoretical particle physicist. My main focus has been the search for an fundamental theory of **dark matter**. I specialize in quantum field theories with holographic hidden sectors. These models of dark sectors inform our experimental program to discover new physics. The puzzles and tools in particle physics spill beyond historical disciplines: I am excited about the overlaps with particle cosmology, machine learning, and information.
 
 > <i class="ai ai-inspire ai-2x"></i> Find more about my current work on [Inspire](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=tanedo)

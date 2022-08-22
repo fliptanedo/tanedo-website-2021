@@ -1,13 +1,46 @@
 # Flip's Personal Website '21
 
 Flip Tanedo
-June 2021 (Update 10 September)
+June 2021 (Update 10 September; Updated 20 Aug 22)
 
 See `Academic_README.md` for the README file for the Hugo Academic Resumé template. I periodically re-do my personal website from scratch using the latest Academic template.
 
 Most of the material is copied from earlier websites. This `README.md` file is a personal reminder of how I edited the page. 
 
 [2020 version](https://github.com/fliptanedo/flip-www-2020).
+
+
+
+## Quick Edits
+
+Notes: I'm not starting from scratch (Aug 22), but I notice that it has become harder and harder to start from scratch if one so wishes. The direct link to the GitHub repository with the basic Hugo academic theme is [here](https://github.com/wowchemy/starter-hugo-academic).
+
+* Updating CV: place the new file in `./static/files/`
+* Updating status: `./content/authors/admin/_index.md`
+* **Updating research**
+  * `researchslide.md`
+  * Image goes in: `./assets/media/research/`
+    * 1200x400 works
+* Calendar: grab the code from the "share calendar" option on Google Calendar.
+
+
+
+### New partial: Design
+
+I was torn between using the premade **gallery** widget and the **projects** widget. 
+
+* **Gallery**: compact, easy to fill. However, no room for discussion of the work. Usage is described [here](https://github.com/wowchemy/wowchemy-hugo-themes/issues/398). Doing this properly will take some time. Punt it for a future update. 
+* **Projects**: perhaps overkill (tags, discussion, etc.).
+
+I think the easiest thing for me would be to reuse my teaching widget. I copied the `./layouts/partials/widgets/teaching.html` to `...portfolio.html` and edited the image source folder. 
+
+I am using the `.content/post/` folder for descriptions of each design. I may want to change this in the future.
+
+
+
+### For Next Time
+
+* I backed up some old sites in `./static/archived/`. These show up under `./archived/` when uploaded. I probably should link to them.
 
 ## Getting Started
 
@@ -780,4 +813,8 @@ Note: UCR now uses 2-factor authentication. In order to ssh/sftp into the server
 
 ## Work in progress for next time
 
+* There are some problems with intermediate screen sizes: the titl eof the page gets cut off by the menu bar and the bottom of the page has excess whitespace. 
+
 ![Screen Shot 2021-09-10 at 4.08.30 PM](/Users/flip/Documents/Website/tanedo-website-2021/README.assets/Screen Shot 2021-09-10 at 4.08.30 PM.png)
+
+* Note that GitHub now requires [Personal Access Tokens]((https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)). Be sure to test this out.

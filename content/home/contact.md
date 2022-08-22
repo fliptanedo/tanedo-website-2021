@@ -29,12 +29,12 @@ design:
   columns: '1'
 
 calendar:
-  # travel
-  - src: 'aXE0b2FzM3YyMmszajYyZjJjaTMzMWhxZDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ'
-  # meetings
+  # meetings @ ucr
   - src: 'NTQ1YzF2aWU5a3U4aWRxMnRnaWVtNjEwZ2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ'
+  # travel
+  - src: 'cXYybHBiOWxpdms3N21qczc0aTJ1cDFtN2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ'
   # teaching
-  - src: 'cW1kbHB2aGc1cG40bXQzN2VqNHQ4c3NiMGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ'
+  - src: 'Y18wbzZzbG1qNnYxNDFjcDFyNjdyMXVmdXZmc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t'
   # phy-sci
   - src: 'ajRpMzBlc2E1bTFlNHE2YTYzNHVqMG5qNDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ'
 

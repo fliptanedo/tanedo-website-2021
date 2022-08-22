@@ -6,7 +6,7 @@ title: Flip Tanedo
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor
+role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,16 +14,16 @@ organizations:
   url: "http://theory.ucr.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Flip Tanedo is a professor of particle physics who specializes in the theoretical description of dark matter.
+bio: Flip Tanedo is a professor of particle physics who specializes in theoretical descriptions of dark matter.
 
-# Interests to show in About widget
+# Interests to show in About widget/ NOT USED, see CV widget
 interests:
 - Dark matter
 - Models of new physics
 - Particle astrophysics
 - Equity in science
 
-# Education to show in About widget
+# Education to show in About widget/ NOT USED, see CV widget
 education:
   courses:
   - course: PhD, MS in Physics
@@ -62,9 +62,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/FlipTanedo
-- icon: publons
-  icon_pack: ai
-  link: https://publons.com/author/637273/philip-tanedo#profile
+# - icon: publons
+#   icon_pack: ai
+#   link: https://publons.com/author/637273/philip-tanedo#profile
 - icon: slideshare
   icon_pack: fab
   link: https://www.slideshare.net/fliptanedo

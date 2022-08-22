@@ -27,8 +27,8 @@ group_logo = "./img/logo/UCRHEP_03.png"
 [interests]
   interests = [
     "Dark matter",
-    "Model building",
-    "Particle astro/cosmo",
+    "Quantum field theory",
+    "Statistical learning",
     "Equity in science"
   ]
 
@@ -66,20 +66,16 @@ group_logo = "./img/logo/UCRHEP_03.png"
 
 [service]
   service = [
-    "Open House Committee (chair)",
     "Website Committee (chair)",
-    "Graduate Diversity Committee",
-    "Outreach Committee",
-    "[Reviewer](https://publons.com/author/637273/)",
-    "[Cientifico Latino Mentor](https://www.cientificolatino.com)",
+    "Open House Committee (chair)",
+    "Climate Committee",
     "[Phy Sci Book Club Moderator](https://www.cellardoorbookstore.com/book-clubs)",
     "[POWUR faculty adviser](https://sites.google.com/view/ucr-powur/)",
-    "[UCEAP Ad Hoc Summer Physics Review Committee](https://uceap.universityofcalifornia.edu/)", 
     "[APS IDEA UCR lead](https://www.aps.org/programs/innovation/fund/idea.cfm)",
-    "[Snowmass TF1: CF Liaison](https://www.aps.org/units/dpf/snowmass-2021.cfm)"
+    "[Snowmass TF/CF Liaison](https://www.aps.org/units/dpf/snowmass-2021.cfm)"
   ]
 +++
-**Flip Tanedo** is an assistant professor of theoretical physics at the University of California, Riverside. His research seeks to discover how dark matter fits into our fundamental understanding of nature.
+**Flip Tanedo** is an associate professor of theoretical physics at the University of California, Riverside. His research seeks to discover how dark matter fits into our fundamental understanding of nature.
 
 - [NSF CAREER Award](https://beta.nsf.gov/funding/opportunities/faculty-early-career-development-program-career), 2021 - 2026
 - UCR [Junior Excellence in Teaching Award](https://academyteachers.ucr.edu/awards/jet), 2021

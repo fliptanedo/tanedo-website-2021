@@ -79,6 +79,12 @@ subtitle = ""
 </details>
 
 <details>
+  <summary>Physics 288: First-Year Grad Talk</summary>
+
+  <iframe src="//www.slideshare.net/slideshow/embed_code/key/J6sQ3kKfgbfECA" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+</details>
+
+<details>
   <summary>Figuring It Out/The ñ In My Name</summary>
 
   <small>
@@ -92,14 +98,21 @@ subtitle = ""
   * [UCR CAMP](https://stem.ucr.edu/research-opportunities/camp)
 </details>
 
-<details>
-  <summary>P288: First-Year Grad Talk</summary>
-
-  <iframe src="//www.slideshare.net/slideshow/embed_code/key/J6sQ3kKfgbfECA" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
-</details>
-
 
 ## Colloquia
+
+<details>
+  <summary>Snowmass: Theory and the Cosmic Frontier</summary>
+  <iframe src="//www.slideshare.net/slideshow/embed_code/key/cJmqYUgJ9WwEwx" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+</details>
+
+<details>
+  <summary>Some ideas about dark matter & what they're good for</summary>
+ <!-- https://www.youtube.com/watch?v=0wG1XdTF07c&feature=emb_title -->
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0wG1XdTF07c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</details>
 
 <details>
   <summary>What Ever Happened to the WIMP of Tomorrow?</summary>
@@ -117,6 +130,8 @@ subtitle = ""
 
 ## Public Talks
 
+
+
 <details>
   <summary>#PhysicsMeetup: Little Particles in a Big Universe</summary>
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fphysicsmeetup%2Fvideos%2F348458656835312%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
@@ -130,10 +145,29 @@ subtitle = ""
   * UCR Hellman Fellows Symposium, March 2021 ([slides](https://www.slideshare.net/fliptanedo/the-invisible-universe-and-you))
 </details>
 
+## Equity Talks
+
+
+
+
+<!--  -->
+
 <details>
+  <summary>Equity as an Early Career Academic</summary>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/zFMCB1PhYJWqOU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+</details>
+
+
+<details>
+  <summary>Popular Book Discussions: a platform for equity in physics
+</summary>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/cKk5XHAVZhxBOl" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+</details>
+
+<!-- <details>
   <summary>Attending to Diversity in the Classroom</summary>
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/jMmTfXVICvAGW6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
   * UCR Summer Physics Teacher Academy Meeting, Feb 2019 ([slides](https://www.slideshare.net/fliptanedo/attending-to-diversity-in-the-physics-classroom))
-</details>
+</details> -->

@@ -11,13 +11,26 @@ weight = 50  # Order that this section will appear.
 title = "Teaching"
 subtitle = ""
 
+[[teaching.class]]
+  name = "Math Methods"
+  number = "P17"
+  session = "Spr 2023"
+  photo = "P017-2021.png"
+  website = "https://sites.google.com/ucr.edu/physics017/"
+
+[[teaching.class]]
+  name = "Math Methods"
+  number = "P231"
+  session = "Fall 2022"
+  photo = "P231-2017.png"
+  website = "https://sites.google.com/ucr.edu/p231/"
 
 [[teaching.class]]
   name = "Math Methods"
   number = "P17"
   session = "Spr 2022"
   photo = "P017-2021.png"
-  website = ""
+  website = "https://sites.google.com/ucr.edu/physics017/"
 
 [[teaching.class]]
   name = "Particle Physics"

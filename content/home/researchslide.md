@@ -51,6 +51,22 @@ item:
     cta_icon: graduation-cap
     credit: '[@fabioha via Unsplash](https://unsplash.com/photos/oyXis2kALVg)'
 
+  - title: Dark Z
+    content: 'at linear colliders'
+    # Choose `center`, `left`, or `right` alignment.
+    align: right
+    # overlay_color: '#666'  # An HTML color value.
+    overlay_img: research/carousel_ILC.jpg  # path relative to `assets/media/` folder
+    overlay_filter: 1  # Darken the image. Value in range 0-1.
+    # THIS DOESN'T WORK (6/7/21); just modify images
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: 2205.10304
+    cta_url: 'https://arxiv.org/abs/2205.10304'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
+    credit: '[@Umberto via Unsplash](https://unsplash.com/photos/FewHpO4VC9Y)'
+
   - title: Conformal DM
     content: 'Continuum Mediated Self-Interactions'
     # Choose `center`, `left`, or `right` alignment.

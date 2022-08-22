@@ -25,16 +25,16 @@ email1: flip.tanedo # using cryptedmail
 email2: ucr # using cryptedmail
 email3: edu # using cryptedmail
 phone: x26168
-address:
-  street: 900 Universty Ave.
-  city: Riverside
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '33.974480'
-  longitude: '-117.325415'
+# address:
+#   street: 900 Universty Ave.
+#   city: Riverside
+#   region: CA
+#   postcode: '94305'
+#   country: United States
+#   country_code: US
+# coordinates:
+#   latitude: '33.974480'
+#   longitude: '-117.325415'
 directions: Physics Building, Office 3054 on the third floor
 office_hours:
   - 'Office hours by appointment'

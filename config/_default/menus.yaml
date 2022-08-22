@@ -25,6 +25,9 @@ main:
   - name: Public
     url: '#twitter'
     weight: 60
+  - name: Design
+    url: '#portfolio'
+    weight: 68
   - name: Contact
     url: '#contact'
     weight: 70

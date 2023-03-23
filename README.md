@@ -9,7 +9,8 @@ See `Academic_README.md` for the README file for the Hugo Academic Resumé templ
 
 Most of the material is copied from earlier websites. This `README.md` file is a personal reminder of how I edited the page. 
 
-[2020 version](https://github.com/fliptanedo/flip-www-2020).
+**Newer versions**: [2023](https://github.com/fliptanedo/FlipWebsite2023) | [2022](https://github.com/fliptanedo/FlipWebsite2022/blob/main/README.md)
+Older versions: [2020 version](https://github.com/fliptanedo/flip-www-2020).
 
 
 
